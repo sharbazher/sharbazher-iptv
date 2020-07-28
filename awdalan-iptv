@@ -11,3 +11,5 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1group-title="local kurdish",HD test
 http://d3rd3i2xz0wkmj.cloudfront.net/de/b4/vid--446579844-dd39fb92-9b4f-4172-a530-6b2a86728f35-640x360.mp4
+#EXTINF:-1,group-title="local kurdish",RENMA 
+http://62.201.232.103:40/live/Renma/playlist.m3u8
